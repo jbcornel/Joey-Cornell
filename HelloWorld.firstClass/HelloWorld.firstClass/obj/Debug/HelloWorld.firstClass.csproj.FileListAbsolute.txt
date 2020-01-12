@@ -1,0 +1,6 @@
+C:\Users\rada2\Documents\GitHub\Joey-Cornell\HelloWorld.firstClass\HelloWorld.firstClass\bin\Debug\HelloWorld.firstClass.exe.config
+C:\Users\rada2\Documents\GitHub\Joey-Cornell\HelloWorld.firstClass\HelloWorld.firstClass\bin\Debug\HelloWorld.firstClass.exe
+C:\Users\rada2\Documents\GitHub\Joey-Cornell\HelloWorld.firstClass\HelloWorld.firstClass\bin\Debug\HelloWorld.firstClass.pdb
+C:\Users\rada2\Documents\GitHub\Joey-Cornell\HelloWorld.firstClass\HelloWorld.firstClass\obj\Debug\HelloWorld.firstClass.csprojAssemblyReference.cache
+C:\Users\rada2\Documents\GitHub\Joey-Cornell\HelloWorld.firstClass\HelloWorld.firstClass\obj\Debug\HelloWorld.firstClass.exe
+C:\Users\rada2\Documents\GitHub\Joey-Cornell\HelloWorld.firstClass\HelloWorld.firstClass\obj\Debug\HelloWorld.firstClass.pdb
